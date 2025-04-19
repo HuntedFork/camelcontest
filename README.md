@@ -16,6 +16,9 @@ No. Just make something that can beat rollerbrain and you'll be fine.
 ## Can I make changes to the rest of the code?
 Yes please squash my bugs
 
+## What if I dont know how to play camelup?
+Online rules here: https://cdn.1j1ju.com/medias/8b/c6/82-camel-up-rulebook.pdf
+
 
 ## Will you implement Crazy Camels
 I hate crazy camels
